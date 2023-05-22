@@ -1,5 +1,4 @@
-# Code & Data for Submission 792
-This is an implementation of BootCF, and the work is submitted to KDD2023.
+This is an implementation of BootCF.
 # Environment
 - Python 3.6.12
 - PyTorch 1.6.0
