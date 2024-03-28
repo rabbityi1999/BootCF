@@ -1,4 +1,4 @@
-This is an implementation of BootCF.
+This is an implementation of BootCF, which has been accepted as TKDE 2024.
 # Environment
 - Python 3.6.12
 - PyTorch 1.6.0
